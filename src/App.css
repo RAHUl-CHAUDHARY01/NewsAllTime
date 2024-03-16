@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.background {
+  background-color: #1A1A1D; /* Your desired color */
+}
 
 .App-logo {
   height: 40vmin;
@@ -14,6 +17,26 @@
 }
 .rounded-navbar .navbar {
   border-radius: 25px; /* Adjust the value as needed */
+}
+.publication-item:before {
+  content: "•";
+  color: #0ea5e9;
+  position: absolute;
+  left: 0;
+}
+
+.project-container,
+.card-container,
+.container {
+  transition: all 0.3s ease;
+}
+
+.project-container:hover,
+.card-container:hover,
+.container:hover {
+  box-shadow: 0 14px 28px rgba(51, 65, 85, 0.25),
+    0 10px 10px rgba(51, 65, 85, 0.22);
+  transform: scaleY(1.05) scaleX(1.05);
 }
 .App-header {
   background-color: #282c34;
