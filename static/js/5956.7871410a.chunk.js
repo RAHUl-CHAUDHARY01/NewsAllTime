@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknewsapp=self.webpackChunknewsapp||[]).push([[5956],{5956:(n,e,t)=>{async function a(n){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await n.addInteractor("externalConnect",(async n=>{const{Connector:e}=await t.e(4012).then(t.bind(t,4012));return new e(n)}),e)}t.d(e,{loadExternalConnectInteraction:()=>a})}}]);
+//# sourceMappingURL=5956.7871410a.chunk.js.map

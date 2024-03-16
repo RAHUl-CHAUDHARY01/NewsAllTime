@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknewsapp=self.webpackChunknewsapp||[]).push([[8232],{8232:(e,a,n)=>{async function t(e){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await e.addParticleUpdater("wobble",(async e=>{const{WobbleUpdater:a}=await n.e(1660).then(n.bind(n,1660));return new a(e)}),a)}n.d(a,{loadWobbleUpdater:()=>t})}}]);
+//# sourceMappingURL=8232.9602909d.chunk.js.map

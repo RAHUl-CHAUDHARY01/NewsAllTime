@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknewsapp=self.webpackChunknewsapp||[]).push([[6253],{6253:(e,s,t)=>{t.d(s,{SquareDrawer:()=>a});const n=Math.sqrt(2);class a{draw(e){!function(e){const{context:s,radius:t}=e,a=t/n,r=2*a;s.rect(-a,-a,r,r)}(e)}getSidesCount(){return 4}}}}]);
+//# sourceMappingURL=6253.fdffc6fe.chunk.js.map
